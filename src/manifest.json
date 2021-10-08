@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Hide images by 3dprogramin",
+  "description": "",
+  "short_name": "Hide images by 3dprogramin",
+  "version": "1.0.1",
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "<all_urls>"
+  ]
+}
